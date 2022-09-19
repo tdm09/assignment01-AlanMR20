@@ -7,4 +7,4 @@ Con base a una base de datos de Kaggle acerca de información de las personas qu
 
 En la carpeta de __Dataset__ se encuentran dos archivos los cuales contienen los datos que se usaron para entrenar el modelo y el conjunto de datos que se usaron para hacer las predicciones.
 
-En archivo de __Titanic.ipynb__ se encuentra el código en Google Colab que utilizó para resolver este reto.
+En archivo de __Titanic.ipynb__ se encuentra el código en Google Colab que se utilizó para resolver este reto. Donde se documentó lo que se hizo de manera general para llegar a la solución.
