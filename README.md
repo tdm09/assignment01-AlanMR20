@@ -5,4 +5,6 @@
 
 Con base a una base de datos de Kaggle acerca de información de las personas que abordaron el Titanic tomar las características y hacer un modelo para poder predecir si un pasajero tuvo oportunidades de sobrevivir o no.
 
+En la carpeta de __Dataset__ se encuentran dos archivos los cuales contienen los datos que se usaron para entrenar el modelo y el conjunto de datos que se usaron para hacer las predicciones.
+
 En archivo de __Titanic.ipynb__ se encuentra el código en Google Colab que utilizó para resolver este reto.
